@@ -5,7 +5,7 @@
 
     // :: Preloader Active Code
 	setTimeout(function(){        
-    $('#preloader').fadeOut('slow');}, 1000);
+    $('#preloader').fadeOut('slow');}, 3000);
 
 
     // :: Fullscreen Active Code
