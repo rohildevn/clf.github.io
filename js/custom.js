@@ -6,7 +6,6 @@
     File Description:Main JS file of the template
 */
 
-
 $(window).on('scroll', function() {
     var scroll = $(window).scrollTop();
 
